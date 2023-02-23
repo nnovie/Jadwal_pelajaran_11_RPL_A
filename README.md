@@ -72,7 +72,7 @@
 	<th>Matematika<br>14.20</th>
 	<th>Pemrograman Dasar<br>14.20</th>
 	<th>Bahasa Inggris<br>14.20</th>
-	<th>Dasar Design Grafis<br></th>
+	<th>Dasar Design Grafis<br>14.20</th>
 </tr>
 <tr>
 	<th>Matematika<br>15.00</th>
