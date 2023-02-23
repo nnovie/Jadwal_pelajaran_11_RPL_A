@@ -63,7 +63,7 @@
 	<th>Matematika<br>13.00</th>
 </tr>
 <tr>
-	<td>Produk Kreatif dan Kewirausahaan<br>13.40</th>
+	<th>Produk Kreatif dan Kewirausahaan<br>13.40</th>
 	<th>Dasar Design Grafis<br>13.40</th>
 	<th>Bahasa Inggris<br>13.40</th>
 	<th>Pemrograman Web dan Perangkat Bergerak<br>13.40</th>
