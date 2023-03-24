@@ -78,3 +78,6 @@
 	<th>Matematika<br>15.00</th>
 	<th>Pemrograman Web dan Perangkat Bergerak<br>15.00</th>
 </tr>
+</html>
+</table>
+</body>
