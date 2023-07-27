@@ -34,7 +34,7 @@
 	<th>Pemodelan Berorientasi Objek<br>08.50</th>
 	<th>Sistem Komputer<br>08.50</th>
 	<th>Bahasa Indonesia<br>08.50</th>
-	<th>Pemodela Perangkat Lunak<br>08.50</th>
+	<th>Pemodelan Perangkat Lunak<br>08.50</th>
 </tr>
 <tr>
 	<th>Dasar Design Grafis<br>10.30</th>
